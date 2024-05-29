@@ -7,7 +7,7 @@ I'm a self-taught developer with 3 years of hands-on experience in web developme
 - **🗄 Backend:** Express, Socket.IO, Next.js.
 - **🎨 Styling:** Tailwind CSS, Bootstrap, Custom Libraries.
 
-I'm constantly exploring new technologies and improving my skills. My goal is to create useful applications with an accessible UI.
+🔎 I'm constantly exploring new technologies and improving my skills. My goal is to create useful applications with an accessible UI and I'm eager to work on projects to professionalize my skills!
 
 <!--
 **LucaVallazza/LucaVallazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
