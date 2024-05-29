@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Luca!
-I'm a self-taught developer with 3 years of hands-on experience in web development. My journey started out of sheer curiosity and has grown into a passion for building efficient and visually appealing web applications.
+I'm a self-taught developer with 3 years of hands-on experience in web development. My journey started out of sheer curiosity and has grown into a passion for building efficient and visually appealing web applications, starting on **C#**, going going through **Python** and the last year focusing mainly on **JavaScript**.
 
 ### Main Tools and Technologies:
 
-**Frontend:** React, Angular, Next.js.
-**Backend:** Express, Socket.IO, Next.js.
-**Styling:** Tailwind CSS, Bootstrap, Custom Libraries.
+- **Frontend:** React, Angular, Next.js.
+- **Backend:** Express, Socket.IO, Next.js.
+- **Styling:** Tailwind CSS, Bootstrap, Custom Libraries.
 
 I'm constantly exploring new technologies and improving my skills. My goal is to create useful applications with an accessible UI.
 
