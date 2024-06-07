@@ -6,6 +6,7 @@ I'm a self-taught developer with 3 years of hands-on experience in web developme
 - **🖼 Frontend:** React, Angular, Next.js, JS, HTML.
 - **🗄 Backend:** Express, Socket.IO, Next.js, .NET.
 - **🎨 Styling:** Tailwind CSS, Bootstrap, Custom Libraries.
+- **⚙️ Embedded system:** C & C++
 
 🔎 I'm constantly exploring new technologies and improving my skills. My goal is to create useful applications with an accessible UI and I'm eager to work on projects to professionalize my skills!
 
