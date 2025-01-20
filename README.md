@@ -3,9 +3,10 @@ I'm a self-taught developer with 3 years of hands-on experience in web developme
 
 ### Main Tools and Technologies:
 
-- **🖼 Frontend:** React, Angular, Next.js, JS, HTML, Kotlin.
+- **🖼 Frontend:** React, Angular, Next.js, JS, HTML.
+- **📱 Mobile:** React Native, Kotlin.
 - **🗄 Backend:** Express, Socket.IO, Next.js, .NET.
-- **🎨 Styling:** Tailwind CSS, Bootstrap, Custom Libraries.
+- **🎨 Styling:** Tailwind CSS, Bootstrap, MaterialUI and other libraries.
 - **⚙️ Embedded system:** C & C++
 
 🔎 I'm constantly exploring new technologies and improving my skills. My goal is to create useful applications with an accessible UI and I'm eager to work on projects to professionalize my skills!
