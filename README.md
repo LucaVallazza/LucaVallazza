@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Luca!
-I'm a self-taught developer with 3 years of hands-on experience in web development. My journey started out of sheer curiosity and has grown into a passion for building efficient and visually appealing web applications, starting on **C#**, going going through **Python** and the last year focusing mainly on **JavaScript**.
+I'm a self-taught developer with 6 years of hands-on experience in software development. My journey started out of sheer curiosity and has grown into a passion for building efficient and visually appealing web applications, starting on **C#**, going going through **Python** and the last year focusing mainly on **JavaScript**.
 
 ### Main Tools and Technologies:
 
